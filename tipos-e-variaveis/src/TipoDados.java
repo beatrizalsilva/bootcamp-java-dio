@@ -7,6 +7,11 @@ public class TipoDados {
 		float pi = 3.14F;
         double salario = 1275.33;
         
-        System.out.println(pi);
+		System.out.println(idade);
+		System.out.println(ano);
+		System.out.println(cep);
+		System.out.println(cpf);
+		System.out.println(pi);
+		System.out.println(salario);
 	} 
 }
